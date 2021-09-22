@@ -1,0 +1,6 @@
+[submodule "voxer-frontend"]
+	path = voxer-frontend
+	url = https://github.com/ashishkk22/voxer-frontend.git
+[submodule "voxer-backend"]
+	path = voxer-backend
+	url = https://github.com/ashishkk22/voxer-backend.git
